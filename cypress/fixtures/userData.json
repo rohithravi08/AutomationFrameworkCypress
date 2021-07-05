@@ -1,0 +1,10 @@
+{
+    "ValidUser":{
+        "email": "rody.bothe@bynder.com",
+        "password": "testassignment"
+    },
+    "InvalidUser":{
+        "email": "rohithxyz09@bynder.com",
+        "password": "testassign"
+    }
+}

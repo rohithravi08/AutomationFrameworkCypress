@@ -1,4 +1,4 @@
-# BynderAutomationFramework -- Guidelines
+# AutomationFramework -- Guidelines
 Framework is based on cypress
 
 # Usage
